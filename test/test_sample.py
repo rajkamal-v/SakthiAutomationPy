@@ -1,2 +1,3 @@
 def my_func():
-    print("hello")
+    print("hello world")
+    print("hello git")
